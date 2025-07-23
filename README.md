@@ -1,1 +1,1 @@
-# Healthy-Chat.AI-
+# Healthy-Chat.AI
