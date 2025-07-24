@@ -13,7 +13,7 @@ This makes **Health Chat AI** a quick and intelligent companion for users seekin
 
 ## 🌐 Live Demo
 
-👉 [Click here to try the live demo](https://your-live-demo-link.com)](https://health-chatai.streamlit.app/)
+👉 [Click here to try the live demo](https://health-chatai.streamlit.app/)
 
 ---
 
