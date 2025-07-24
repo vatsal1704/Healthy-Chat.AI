@@ -29,10 +29,10 @@ This makes **Health Chat AI** a quick and intelligent companion for users seekin
 ## 📸 Screenshots
 
 ### 🖼️ Chat Interface
-![Screenshot 1]<img width="1920" height="842" alt="Screenshot (373)" src="https://github.com/user-attachments/assets/c049db37-916b-421a-a2fa-b1d84d20e5fe" />
+<img width="1920" height="842" alt="Screenshot (373)" src="https://github.com/user-attachments/assets/c049db37-916b-421a-a2fa-b1d84d20e5fe" />
 
 ### 🖼️ Response Example
-![Screenshot 2]<img width="1920" height="852" alt="Screenshot (374)" src="https://github.com/user-attachments/assets/a48d019a-9075-4dda-a8e2-9bb74ec26a70" />
+<img width="1920" height="852" alt="Screenshot (374)" src="https://github.com/user-attachments/assets/a48d019a-9075-4dda-a8e2-9bb74ec26a70" />
 
 
 
