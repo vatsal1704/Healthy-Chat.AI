@@ -1,12 +1,15 @@
-# Healthy-Chat.AI
+# 🩺 Health-Chat.AI
+**Health Chat AI** is an intelligent health assistant built with **Streamlit** and powered by **Gemini 2.5 Pro**. The app allows users to input their **height** and **weight**, calculates their **BMI (Body Mass Index)**, and determines whether they are underweight, normal, overweight, or obese.
 
-# 🩺 Health Chat AI
+Once the BMI is calculated, users can engage in a personalized chat with the AI to ask health-related questions, such as:
 
-Health Chat AI is a conversational web application designed to provide users with quick, reliable responses to their health-related queries. Built using **Streamlit** and powered by the **Gemini 2.5 Pro** model, this app leverages cutting-edge AI technology to deliver smart, context-aware health guidance in real time.
+- “What are the health risks of being overweight?”
+- “How can I lose weight safely?”
+- “What should my ideal BMI be?”
+- “Can you suggest a basic workout plan for my condition?”
 
-> ⚠️ Note: This app is for informational purposes only and should not be considered a substitute for professional medical advice.
+This makes **Health Chat AI** a quick and intelligent companion for users seeking general health advice based on their BMI status.
 
----
 
 ## 🌐 Live Demo
 
